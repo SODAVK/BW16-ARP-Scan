@@ -34,6 +34,6 @@ ARP Scan in local network using BW16 (RTL8720DN)
    - Open Serial Monitor (115200) and write "scan"
 
 # Note
-Android/ios in sleep mode, may not be dont detected
-TTL Scan may not work
+Android/ios in sleep mode, may not be dont detected <br>
+TTL Scan may not work <br>
 Code for educational purposes, good luck
