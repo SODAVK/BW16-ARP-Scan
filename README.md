@@ -16,7 +16,7 @@ ARP Scan in local network using BW16 (RTL8720DN)
 5. Click on `OK`.
 6. Go to `Tools` → `Board` → `Board Manager`.
 7. Search `Realtek Ameba Boards (32-Bits ARM Cortex-M33@200MHz)` by `Realtek`.
-8. !!! CODE WORK WITH 3.1.7 pack, other versions may not be work !!!
+!!! CODE WORK WITH 3.1.7 pack, other versions may not be work !!!
 9. Install it.
 10. Restart the Arduino IDE.
 11. Done!
